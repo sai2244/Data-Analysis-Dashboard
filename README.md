@@ -23,6 +23,18 @@ The objective of creating an IMDb Dataset Dashboard using Power BI is to analyze
 - Which movies have the highest box office collections?
 - How do budget and revenue relate to IMDb ratings?
 
+- Dashboard Interaction <a href="https://github.com/sai2244/Data-Analysis-Dashboard/blob/main/Screenshot%202025-02-25%20160028.png">View Dashboard</a>
+
+##Process
+- Import and Clean Data: Load the IMDb dataset into Power BI, remove duplicates, handle missing values, and format columns using Power Query Editor.
+- Data Modeling: Establish relationships between tables (e.g., Movies, Directors, Actors) and create calculated columns or DAX measures like Total Votes, Avg IMDb Rating, and Highest Grossing Movie.
+- Create Visualizations: Design bar charts, pie charts, line graphs, and KPI cards to analyze movie performance, genre trends, director impact, actor popularity, and revenue insights.
+- Enhance Interactivity: Add slicers, filters, and drill-through to allow users to explore data dynamically by genre, year, director, or rating.
+- Publish and Optimize: Publish the dashboard to Power BI Service, schedule data refresh, format UI for better readability, and ensure insights are clear and actionable.
+
+##Dashboard
+
+
 
 
 
