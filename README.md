@@ -43,7 +43,7 @@ The objective of creating an IMDb Dataset Dashboard using Power BI is to analyze
 - Meta Score vs. IMDb Rating: There is a weak correlation between critic (Meta Score) and audience ratings, suggesting that critics and viewers often have different perspectives on movie quality.
 
 ##Final Conclusion
-The IMDb Data Dashboard reveals key trends in movie popularity, director influence, and genre preferences. Drama and Action dominate, while high-budget films earn more revenue, though low-budget movies with strong storytelling still succeed. Movie releases have increased, but IMDb ratings have slightly declined, reflecting changing audience tastes. Lastly, critics and audiences often have differing opinions, as shown by the weak correlation between IMDb ratings and Meta Scores. 
+- The IMDb Data Dashboard reveals key trends in movie popularity, director influence, and genre preferences. Drama and Action dominate, while high-budget films earn more revenue, though low-budget movies with strong storytelling still succeed. Movie releases have increased, but IMDb ratings have slightly declined, reflecting changing audience tastes. Lastly, critics and audiences often have differing opinions, as shown by the weak correlation between IMDb ratings and Meta Scores. 
 
 
 
