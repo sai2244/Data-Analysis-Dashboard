@@ -33,6 +33,18 @@ The objective of creating an IMDb Dataset Dashboard using Power BI is to analyze
 - Publish and Optimize: Publish the dashboard to Power BI Service, schedule data refresh, format UI for better readability, and ensure insights are clear and actionable.
 
 ##Dashboard
+![Screenshot 2025-02-25 160028](https://github.com/user-attachments/assets/35a4254a-4a07-4c70-a0bb-3393cb91d1dc)
+
+##Project insights
+- Director & Actor Impact: The dashboard reveals that certain directors consistently receive high IMDb ratings, with Christoper Nolan and Steven Spielberg among the most voted directors. Similarly, actors like Scarlett Johansson and Samuel L. Jackson have high audience engagement.
+- Genre Popularity: Drama and Action genres dominate in both ratings and number of votes, while animated and documentary films have lower engagement but often receive high critic scores.
+- Yearly Trends: The number of movies released peaked in recent years, but the average IMDb rating has shown a decline, indicating increased competition and changing audience preferences.
+- Financial Insights: Big-budget movies tend to have higher gross revenue, but some low-budget films achieve high IMDb ratings, proving that storytelling matters as much as production value.
+- Meta Score vs. IMDb Rating: There is a weak correlation between critic (Meta Score) and audience ratings, suggesting that critics and viewers often have different perspectives on movie quality.
+
+##Final Conclusion
+The IMDb Data Dashboard reveals key trends in movie popularity, director influence, and genre preferences. Drama and Action dominate, while high-budget films earn more revenue, though low-budget movies with strong storytelling still succeed. Movie releases have increased, but IMDb ratings have slightly declined, reflecting changing audience tastes. Lastly, critics and audiences often have differing opinions, as shown by the weak correlation between IMDb ratings and Meta Scores. 
+
 
 
 
